@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aabeben
 - 👀 I’m interested in Programming Languges
-- 🌱 I’m currently learning Dart Language and Flutter Mobile framework
+- 🌱 I'm learning python now!
+- 😎 I'm working at KiselGroup. Developing and maintaining Odoo Framework.
 - 📫 How to reach me at bhasanudin@gmail.com
 
 <!---
