@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aabeben
 - 👀 I’m interested in Programming Languges
 - 🌱 I'm learning python now!
-- 😎 I'm working at KiselGroup. Developing and maintaining Odoo Framework.
+- :) I'm learning Golang too!
 - 📫 How to reach me at bhasanudin@gmail.com
 
 <!---
